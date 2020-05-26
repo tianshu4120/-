@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="767b60c7-40a0-4b60-9b1f-95464c7ff9b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YN946zPPfMFgtdiPcqLPTKyGBb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/Project/game-design/HTML5全民飞机大战游戏代码" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="767b60c7-40a0-4b60-9b1f-95464c7ff9b7" name="Default Changelist" comment="" />
+      <created>1582771990890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582771990890</updated>
+      <workItem from="1582771993592" duration="619000" />
+      <workItem from="1582774794617" duration="5699000" />
+      <workItem from="1585643910257" duration="4527000" />
+      <workItem from="1586247633413" duration="6195000" />
+      <workItem from="1586690733127" duration="7529000" />
+      <workItem from="1586851715409" duration="6654000" />
+      <workItem from="1587606855664" duration="651000" />
+      <workItem from="1587872523854" duration="1739000" />
+      <workItem from="1587899196292" duration="620000" />
+      <workItem from="1587981189452" duration="548000" />
+      <workItem from="1587981764664" duration="14000" />
+      <workItem from="1588651427411" duration="1748000" />
+      <workItem from="1588653520879" duration="853000" />
+      <workItem from="1588746978429" duration="2807000" />
+      <workItem from="1588769407691" duration="1911000" />
+      <workItem from="1589341952712" duration="3000" />
+      <workItem from="1589446653182" duration="129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="422" y="289" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586252056838">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state x="422" y="289" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.960@0.0.1440.960" timestamp="1586252056838" />
+    <state x="860" y="239" key="FileChooserDialogImpl" timestamp="1589446780130">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state x="860" y="239" key="FileChooserDialogImpl/0.0.1440.960@0.0.1440.960" timestamp="1589446780130" />
+  </component>
+</project>
